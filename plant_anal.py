@@ -6,7 +6,7 @@ Output:
     results/plant_with_nodes.glb
 
 Run:
-    python plant_anal
+    python plant_anal.py
 
 Use from another Python file:
     from plant_anal import analyze_plant_model
